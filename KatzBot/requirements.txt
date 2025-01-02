@@ -2,3 +2,4 @@ streamlit
 transformers
 pandas
 dataclasses
+torch
